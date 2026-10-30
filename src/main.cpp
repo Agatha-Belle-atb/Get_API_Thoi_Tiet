@@ -13,11 +13,11 @@
 #include <HTTPClient.h>
 #include <Arduino_JSON.h>
 String httpGETRequest(const char *serverName);
-const char *ssid = "Xom Tro";
-const char *password = "nhat1123";
+const char *ssid = "NAME Wifi";
+const char *password = "PASS Wifi";
 
 // Your Domain name with URL path or IP address with path
-String openWeatherMapApiKey = "99596ff4bfc934d0a54a8b82cd71c234";
+String openWeatherMapApiKey = "API KEY";
 // Example:
 // String openWeatherMapApiKey = "bd939aa3d23ff33d3c8f5dd1dd435";
 
